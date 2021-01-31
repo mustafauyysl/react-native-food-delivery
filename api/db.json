@@ -1,0 +1,71 @@
+{
+    "restaurants" : [
+        {
+            "id": 1,
+            "title": "Bear Burger",
+            "img": "https://p4.wallpaperbetter.com/wallpaper/645/874/424/food-minimalism-art-burger-wallpaper-preview.jpg",
+            "min": 10,
+            "point": 80,
+            "time": 15
+        },
+        {
+            "id": 2,
+            "title": "Bear Pizza",
+            "img": "https://media.gettyimages.com/photos/tasty-pepperoni-pizza-and-cooking-ingredients-tomatoes-basil-on-black-picture-id1083487948?b=1&k=6&m=1083487948&s=612x612&w=0&h=_eg1mPRa4HMrMMOx1zpI658jcc9brqNAajjBfe89o6Y=",
+            "min": 15,
+            "point": 75,
+            "time": 30
+        }
+    ],
+    "products" : [
+        {
+            "id": 1,
+            "restaurantId": 1,
+            "category": "Burger",
+            "title": "BigMac",
+            "price": 25,
+            "img": "https://image.similarpng.com/very-thumbnail/2020/04/Delicious-hamburger-png.png"
+        },
+        {
+            "id": 2,
+            "restaurantId": 2,
+            "category": "Burger",
+            "title": "Second Burger",
+            "price": 20,
+            "img": "https://img.pngio.com/fast-food-burger-fast-food-hamburgers-western-style-png-and-psd-hamburger-png-650_651.png"
+        },
+        {
+            "id": 3,
+            "restaurantId": 2,
+            "category": "Pizza",
+            "title": "Karışık",
+            "price": 45,
+            "img": "https://w7.pngwing.com/pngs/448/578/png-transparent-pizza-margherita-italian-cuisine-chicago-style-pizza-pepperoni-pizza.png"
+            
+        },
+        {
+            "id": 4,
+            "restaurantId": 2,
+            "category": "Pizza",
+            "title": "Hawai",
+            "price": 45,
+            "img": "https://img.pngio.com/fast-food-burger-fast-food-hamburgers-western-style-png-and-psd-hamburger-png-650_651.png"
+        },
+        {
+            "id": 5,
+            "restaurantId": 1,
+            "category": "Burger",
+            "title": "DabaDaba",
+            "price": 30,
+            "img": "https://img.pngio.com/fast-food-burger-fast-food-hamburgers-western-style-png-and-psd-hamburger-png-650_651.png"
+        },
+        {
+            "id": 6,
+            "restaurantId": 1,
+            "category": "Pizza",
+            "title": "4 Peynirli",
+            "price": 30,
+            "img": "https://w7.pngwing.com/pngs/448/578/png-transparent-pizza-margherita-italian-cuisine-chicago-style-pizza-pepperoni-pizza.png"
+        }
+    ]
+}
