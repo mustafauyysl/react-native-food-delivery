@@ -5,10 +5,10 @@ import productsListReducer from './products/productsListReducer';
 import cartReducer from './cart/cartReducer';
 
 const rootReducer = combineReducers({
-    restaurantsListReducer,
-    changeRestaurantReducer,
-    productsListReducer,
-    cartReducer
-})
+  restaurantsListReducer,
+  changeRestaurantReducer,
+  productsListReducer,
+  cartReducer,
+});
 
 export default rootReducer;

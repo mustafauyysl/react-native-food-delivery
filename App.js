@@ -5,13 +5,12 @@ import {Provider} from 'react-redux';
 
 const store = configureStore();
 
-const App = props => {
-  return(
+const App = (props) => {
+  return (
     <Provider store={store}>
       <BearNavigator />
     </Provider>
-    
-  )
-}
+  );
+};
 
 export default App;

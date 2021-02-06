@@ -1,6 +1,6 @@
 export default {
-    restaurants: [],
-    clickedRestaurant: {},
-    products: [],
-    cart: []
-}
+  restaurants: [],
+  clickedRestaurant: {},
+  products: [],
+  cart: [],
+};

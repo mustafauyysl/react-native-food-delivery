@@ -1,4 +1,5 @@
 # hungryBear
+
 Food Delivery App - React Native, Redux, Redux Thunk, JSON Server
 
 # Installation
@@ -7,11 +8,11 @@ Firstly, run JSON Server
 
 ```
    npm intall json-server
-   
+
    cd hungryBear && cd api
-   
+
    json-server --watch db.json
-   
+
 ```
 
 Now, run project
