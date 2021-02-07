@@ -1,4 +1,4 @@
-# hungryBear
+# Hungry Bear
 
 Food Delivery App - React Native, Redux, Redux Thunk, JSON Server
 
